@@ -33,6 +33,7 @@
     "commander": "~2.9.0",
     "es6-promise": "^3.2.1",
     "express": "~4.13.3",
+    "isomorphic-fetch": "^2.2.1",
     "json-rpc2": "~1.0.2",
     "q": "~1.4.1",
     "request-promise": "^2.0.1",
