@@ -31,6 +31,7 @@
     "blockchain.info": "~2.2.2",
     "body-parser": "~1.14.1",
     "commander": "~2.9.0",
+    "es6-promise": "^3.2.1",
     "express": "~4.13.3",
     "json-rpc2": "~1.0.2",
     "q": "~1.4.1",
